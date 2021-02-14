@@ -5,5 +5,6 @@ Concepts covered here :
 <li>Eye detection</li>
 <li>Frame processing</li>
 </ul>
+A beginner opencv project
 
 
